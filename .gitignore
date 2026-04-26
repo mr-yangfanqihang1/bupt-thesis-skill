@@ -1,0 +1,6 @@
+node_modules/
+*.body.tmp.docx
+*.check.log
+thesis-work/
+bupt-thesis-helper-cloud*.zip
+bupt-thesis-helper-cloud*.skill
